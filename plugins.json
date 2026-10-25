@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Entity4O4/VerifiedSafe-Extensions/main/AnimeAndCartoons.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Anime & Cartoons 🍿",
+    "internalName": "AnimeAndCartoons",
+    "authors": [
+      "Entity4O4"
+    ],
+    "description": "Personally curated anime and cartoons using authorized sources.",
+    "repositoryUrl": "https://github.com/Entity4O4/VerifiedSafe-Extensions",
+    "tvTypes": [
+      "Anime",
+      "Cartoon",
+      "Movie"
+    ],
+    "language": "en"
+  }
+]

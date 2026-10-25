@@ -3,6 +3,6 @@
   "description": "A personally curated Anime & Cartoons extension for CloudStream.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Entity4O4/VerifiedSafe-Extentions/main/plugins.json"
+    "https://raw.githubusercontent.com/Entity4O4/VerifiedSafe-Extensions/main/plugins.json"
   ]
 }

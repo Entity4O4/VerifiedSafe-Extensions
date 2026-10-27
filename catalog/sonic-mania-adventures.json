@@ -1,0 +1,36 @@
+{
+  "title": "Sonic Mania Adventures",
+  "audio": "English",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Sonic Returns",
+      "videoId": "rDYbwdEn7rs"
+    },
+    {
+      "number": 2,
+      "title": "Sonic and Tails",
+      "videoId": "KYEmRHFolvM"
+    },
+    {
+      "number": 3,
+      "title": "& Knuckles",
+      "videoId": "i-j7xctfVUQ"
+    },
+    {
+      "number": 4,
+      "title": "Mighty and Ray",
+      "videoId": "aAmBxc_yCsI"
+    },
+    {
+      "number": 5,
+      "title": "Metal Mayhem",
+      "videoId": "3HSc3ASFoG8"
+    },
+    {
+      "number": 6,
+      "title": "From: A. Rose",
+      "videoId": "UpfIblkRspQ"
+    }
+  ]
+}
